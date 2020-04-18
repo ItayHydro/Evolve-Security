@@ -116,4 +116,4 @@ async def unmute_error(ctx, error):
         await ctx.send('Missing permissions, you have to be administrator to use this.')
 
 
-client.run('token')
+client.run('yourtoken')
