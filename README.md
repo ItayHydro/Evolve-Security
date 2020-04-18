@@ -1,2 +1,2 @@
-# EvolveSecurity-Source
-Source code of EvolveSecurity Discord bot
+# Evolve Security
+Source code of EvolveS ecurity Discord bot
